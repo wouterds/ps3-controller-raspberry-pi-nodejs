@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Wouter De Schuyter",
+    "email": "wouter.de.schuyter@gmail.com",
+    "url": "https://wouterdeschuyter.be/"
+  },
+  "name": "ps3-controller-raspberry-pi-node-js",
+  "version": "0.1.0",
+  "dependencies": {
+    "joystick": "^0.1.2",
+    "raspi": "^5.0.2",
+    "raspi-gpio": "^6.0.0",
+    "raspi-soft-pwm": "^5.0.0"
+  }
+}
